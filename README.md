@@ -7,6 +7,8 @@ Research work Publications:
 
 (*)https://www.researchgate.net/publication/344141650_Market_Customer_Segmentation_Using_Unsupervised_Machine_Learning_techniques
 
+(*)https://www.kaggle.com/sohelranaccselab/data-analysis-for-boston-chicago-crime?scriptVersionId=45350718
+
 
 #Machine Learning is part of Data Science. It depicts aspects of statistics and algorithms to work on the data generated and extracted from multiple resources. Most of the data get generated in huge amounts and it becomes tiresome for a data scientist to work on it. That is when Machine Learning comes into action. ML is the strength given to a system to learn and process data sets autonomously without human intervention. This is achieved through complex algorithms and techniques like regression, supervised clustering, naive Bayes and more.
 
